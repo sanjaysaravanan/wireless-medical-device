@@ -14,3 +14,15 @@ Interface:
 
   Refere Online Documents and Youtube Videos,
     https://www.youtube.com/watch?v=aE8EbDmrUfQ
+
+    https://www.youtube.com/watch?v=w5LgLsCumFI
+
+  
+  Remote Control Car:
+
+    App ( Send the Signals ) -> Chip -> Hardware ( Receive Signals )
+
+  
+  Wireless Sethescope:
+    
+    App ( Receive Signals ) <- Chip <- Hardware ( Send the Signals )
