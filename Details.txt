@@ -26,3 +26,7 @@ Interface:
   Wireless Sethescope:
     
     App ( Receive Signals ) <- Chip <- Hardware ( Send the Signals )
+
+
+ToDo:
+  Search for online codes which can receive audio inputs and display them in the application
