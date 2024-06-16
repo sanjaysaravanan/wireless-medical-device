@@ -1,0 +1,16 @@
+Hardware:
+  arduino
+
+Software:
+  Embedded C
+
+    try to read all the basics as much as possible
+
+Interface:
+
+  Android: interface which take the input from the hardware and show some sort of graph or single
+
+  Try to search for source codes online, basically which will connect to arduino and receive some signals from the sensor.
+
+  Refere Online Documents and Youtube Videos,
+    https://www.youtube.com/watch?v=aE8EbDmrUfQ
